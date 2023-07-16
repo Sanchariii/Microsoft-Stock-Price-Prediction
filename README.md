@@ -32,17 +32,16 @@ The [dataset](https://drive.google.com/file/d/1sDHtyrUTQoVr877zNBrGhSOZCsvV5BlY/
 
 * Matplotlib
 
-  ## Result
+## Result
 
-  After running the code, the predicted Microsoft stock prices for the test set and a visualization of the predicted prices compared to the actual prices is obtained.
+After running the code, the predicted Microsoft stock prices for the test set and a visualization of the predicted prices compared to the actual prices is obtained.
 
-  ## Future Aspects
+## Future Aspects
+With the help of LSTM Model a web app will be made using Streamlit framework which will show live prediction of stocks of Microsoft.
 
-  With the help of LSTM Model a web app will be made using Streamlit framework which will show live prediction of stocks of Microsoft.
+## Acknowledgments
 
-  ## Acknowledgments
-
-  * The code in this repository is based on the concepts and techniques from the field of deep learning and time series analysis.
+* The code in this repository is based on the concepts and techniques from the field of deep learning and time series analysis.
 
   
 
